@@ -1,0 +1,30 @@
+.map-title h3 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #393a35;
+  margin-top: 8px;
+}
+.map-title p {
+  font-size: 14px;
+  font-weight: 700;
+  color: #999a95;
+  margin-top: 6px;
+}
+
+#map {
+  margin-top: 10px;
+}
+
+.symbol-modal {
+  width: 180px;
+  height: 40px;
+  padding: 4px;
+  border: none;
+  border-radius: 10px;
+  background-color: #393a35;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  color: #d4d4d4;
+}/*# sourceMappingURL=layout.css.map */
